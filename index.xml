@@ -41,7 +41,7 @@
 </ul>
 <p>先imageinfo判断系统版本</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">vol.py -f OtterCTF.vmem imageinfo
-</span></span></code></pre></div><p><img src="https://xiye-qwq.github.io/post/Otterctf2018%E5%86%85%E5%AD%98%E5%8F%96%E8%AF%81/imageinfo.png" alt="imageinfo.png"></p>
+</span></span></code></pre></div><p><img src="https://raw.githubusercontent.com/Xiye-QWQ/blog/refs/heads/main/photo/OtterCTF2018%E5%86%85%E5%AD%98%E5%8F%96%E8%AF%81/imageinfo.png" alt="imageinfo.png"></p>
 <p>判断出系统后就可以用mimikatz找出密码了</p>
         
         <hr><p>本文2025-06-13首发于<a href='http://localhost:1313/'>Xiye-QWQ的Blog</a>，最后修改于2025-06-13</p>]]>
